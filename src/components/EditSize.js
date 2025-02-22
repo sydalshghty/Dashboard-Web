@@ -1,4 +1,4 @@
-import imgSize from "../images/Group 429.svg";
+import imgSize from "../images/Group 429.png";
 import UserName from "./userName";
 import { useCallback, useEffect, useState } from "react";
 import Swal from "sweetalert2";

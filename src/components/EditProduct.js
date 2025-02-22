@@ -1,12 +1,12 @@
-import imgProduct from "../images/Group 429.svg";
+import imgProduct from "../images/Group 429.png";
 import UserName from "./userName";
 import "../css/EditProduct.css";
 import { useNavigate } from "react-router-dom";
 import SubmitButton from "./Submit";
-import imgDelete from "../images/Vector (8).svg";
-import imgEdit from "../images/Group 445.svg";
-import closeSquare from "../images/Close-Square.svg";
-import ProductEdit from "../images/Group 452.svg";
+import imgDelete from "../images/Close-Square.png";
+import imgEdit from "../images/Group 445.png";
+import closeSquare from "../images/Close-Square (1).png";
+import ProductEdit from "../images/Group 452.png";
 import { useParams } from "react-router-dom";
 import { token } from "./token";
 import { useCallback, useEffect, useState } from "react";

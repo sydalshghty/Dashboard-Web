@@ -1,4 +1,4 @@
-import imgMaterial from "../images/Group 429.svg";
+import imgMaterial from "../images/Group 429.png";
 import UserName from "./userName";
 import "../css/EditMaterial.css";
 import { useNavigate } from "react-router-dom";

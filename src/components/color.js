@@ -1,4 +1,4 @@
-import imgColor from "../images/Group 429.svg";
+import imgColor from "../images/Group 429.png";
 import UserName from "./userName";
 import { useNavigate } from "react-router-dom";
 import React, { useCallback, useEffect, useState } from 'react';

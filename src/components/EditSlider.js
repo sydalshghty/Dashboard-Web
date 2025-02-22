@@ -1,5 +1,5 @@
 import UserName from "./userName";
-import imgIcon from "../images/Group 429.svg";
+import imgIcon from "../images/Group 429.png";
 import "../css/EditSlider.css";
 import { useNavigate } from "react-router-dom";
 import imgProduct from "../images/61GsnUB4HuL 2 (2).png";
